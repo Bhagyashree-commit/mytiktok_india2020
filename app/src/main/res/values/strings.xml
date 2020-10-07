@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyTok</string>
+
+
+  
+
+    <string name="facebook_app_id">1009263932830805</string>
+    <string name="fb_login_protocol_scheme">fb1009263932830805</string>
+
+
+
+
+    <string name="ad_app_id">ca-app-pub-7344135173055902~4109865352</string>
+    <string name="my_Interstitial_Add">ca-app-pub-7344135173055902/3834533183</string>
+    <string name="banner_ad">ca-app-pub-7344135173055902/1589328006</string>
+
+
+    <string name="request_verification">Request Verification</string>
+    <string name="apply_for_hello_Mytok_verification">Apply for My Tok Verification</string>
+    <string name="upper_body">A verified badge is check that aapears next to an \n mytok accounts name to indiacte that the \naccount is the authentic presence of notable \npublic figure , celebrity, global brand or entity it \nrepresents.</string>
+    <string name="upper_body_below">Submitting a request for verification \ndoes not guarantee that your account will be verified</string>
+    <string name="lower_body">We require a goverment-issued photo ID that shows \nyour name and date of birth(e.g driver\'s license.\npassport or national identification card) or official \nbusiness documents(tax filing, recent utility bill, article of \nincorporation) in order to review your request.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="version">2.1</string>
+    <string name="device">android</string>
+    <string name="delete_function_not_available_in_demo">Delete Function not available in demo</string>
+    <string name="apply_for_hellotok_verification">\@string/apply_for_mytok_verification</string>
+</resources>

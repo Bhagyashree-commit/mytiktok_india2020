@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "596014845245",
+    "firebase_url": "https://mytok-a0b7d.firebaseio.com",
+    "project_id": "mytok-a0b7d",
+    "storage_bucket": "mytok-a0b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596014845245:android:3247cf76f0c4d11047c954",
+        "android_client_info": {
+          "package_name": "com.mytok.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596014845245-4a41nr4ufsusu7v428u6it27qpo94sis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgSNG-p388G-W_AyICbkGdE4O-J8jZGC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596014845245-4a41nr4ufsusu7v428u6it27qpo94sis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
